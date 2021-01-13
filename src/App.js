@@ -12,9 +12,9 @@ function App() {
             </p>
           <ul>
             <li><a href="mailto: stevenmcfarlane@hotmail.co.uk">Email</a></li>
-            <li><a href="https://www.linkedin.com/in/steven-mcfarlane-9b769637" target="_blank" rel="noopener">LinkedIn</a></li>
-            <li><a href="https://github.com/stmcf" target="_blank" rel="noopener">GitHub</a></li>
-            <li><a href="https://twitter.com/IAMSMCF" target="_blank" rel="noopener">Twitter</a></li>
+            <li><a href="https://www.linkedin.com/in/steven-mcfarlane-9b769637" target="_blank" rel="noreferrer">LinkedIn</a></li>
+            <li><a href="https://github.com/stmcf" target="_blank" rel="noreferrer">GitHub</a></li>
+            <li><a href="https://twitter.com/IAMSMCF" target="_blank" rel="noreferrer">Twitter</a></li>
           </ul>
       </header>
     </div>
