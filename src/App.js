@@ -31,7 +31,7 @@ function App() {
             <p>
               I'm working on my new site, until then you can contact me on the following platforms: 
             </p>
-            <ul class="nav-links right">
+            <ul>
             <li><a href="mailto: stevenmcfarlane@hotmail.co.uk">Email</a></li>
             <li><a href="https://www.linkedin.com/in/steven-mcfarlane-9b769637" target="_blank" rel="noreferrer">LinkedIn</a></li>
             <li><a href="https://github.com/stmcf" target="_blank" rel="noreferrer">GitHub</a></li>
