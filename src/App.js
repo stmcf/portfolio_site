@@ -36,6 +36,7 @@ function App() {
             <li><a href="https://www.linkedin.com/in/steven-mcfarlane-9b769637" target="_blank" rel="noreferrer">LinkedIn</a></li>
             <li><a href="https://github.com/stmcf" target="_blank" rel="noreferrer">GitHub</a></li>
             <li><a href="https://twitter.com/IAMSMCF" target="_blank" rel="noreferrer">Twitter</a></li>
+            <li><a href="https://stmcf.github.io/CV/" target="_blank" rel="noreferrer">CV</a></li>
           </ul>
         </div>
       </div>
